@@ -8,7 +8,7 @@
 <body>
 <table border="1" style="border-collapse:collapse" align="center" valign="top" width=" 50%"><tr><td>
 
-<br><center><table border="1" style="border-collapse:collapse; border-radius:10px">
+<br><center><table border="1" style="border-collapse:collapse; border-radius:10px" width="10%">
 <tr><td> 01</td></tr>
 </table><center><br>
 
