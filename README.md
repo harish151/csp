@@ -6,11 +6,7 @@
 </style>
 </head>
 <body>
-<table border="1" style="border-collapse:collapse" align="center" valign="top" width=" 50%"><tr><td>
 
-<br><center><table border="1" style="border-collapse:collapse; border-radius:10px" width="10%">
-<tr><td> 01</td></tr>
-</table><center><br>
 
 <center><font color="red" size="4"><b>SRI VASAVI ENGINEERING COLLEGE(AUTONOMOUS)</b></font></center><br>
 <center><font color="#580EF5" size="2"><b>DEPARTMENT OF COMPUTER SCIENCE AND ENGINEERING</b></font></center>
@@ -145,6 +141,5 @@
 <td></td>
 </tr>
 </table><br><br>
-</td></tr></table>
 </body>
 </html>
